@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing Btech in Artificial Intelligence and Data Science
 - 💞️ I’m looking to collaborate on projects like MERN stack and Machine Learning 
 - 📫 You can reach to me via gmail 'chaudhari.vedashri969@gmail.com'
-- 🏅 I'm a sportsaholic who loves to play karate, badminton and athletics
+- 🏅 I'm a sportsaholic who loves to play karate and athletics
 
 <!---
 VedashriChaudhari/VedashriChaudhari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
